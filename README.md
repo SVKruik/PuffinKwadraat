@@ -1,9 +1,14 @@
 # Hi there, I'm Stefan - aka PuffinKwadraat/Complex! 👋
 
-## I'm a developer, specialised in Discord bots and web development
+## I'm a developer, specialised in Discord bots and web development.
 
-- 🌱 I’m currently working on my Discord bots!
+- 🌱 I'm working on: my Discord bots!
 - ⚡ Fun fact: I love playing field hockey!
+
+## Active Projects
+
+    - I'm currently working on several Discord bots. You can see them in action [here](https://discord.gg/VSE75WkgFM).
+    - I'm also building my own website, which you can check out [here](https://github.com/PuffinKwadraat/MultiCube-Public/tree/main/MultiCube%20Website).
 
 ## Languages I use
 
