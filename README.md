@@ -7,8 +7,8 @@
 
 ## Active Projects
 
-- I'm currently working on several Discord bots. You can see them in action [here](https://discord.gg/VSE75WkgFM).
-- I'm also building my own website, which you can check out [here](https://github.com/PuffinKwadraat/MultiCube-Public/tree/main/MultiCube%20Website).
+- Discord bots, you can see them in action [here](https://discord.gg/VSE75WkgFM).
+- Portfolio website, repository [here](https://github.com/PuffinKwadraat/Portfolio-Website).
 
 ## Languages I use
 
