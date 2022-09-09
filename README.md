@@ -1,6 +1,6 @@
 # Hi there, I'm Stefan - aka PuffinKwadraat/Complex! 👋
 
-## I'm a developer, specialised in Discord bots and web development.
+## I'm a full-stack developer, specialised in Javascript and web development.
 
 - 🌱 I'm working on: my Discord bots!
 - ⚡ Fun fact: I love playing field hockey!
@@ -9,8 +9,9 @@
 
 - Discord bots, you can see them in action [here](https://discord.gg/VSE75WkgFM).
 - Portfolio website, repository [here](https://github.com/PuffinKwadraat/Portfolio-Website).
+- College, repository for [homework](https://github.com/PuffinKwadraat/HvA-NL-J1) and projects.
 
-## Languages I use
+## Languages and Tools I use
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://github.com/PuffinKwadraat)
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://github.com/PuffinKwadraat)
