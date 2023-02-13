@@ -2,9 +2,9 @@
 
 I am a 17 year old self-taught Node.js programmer.
 
-While I'm experimenting with all the new technologies, I also go to school. I am very interested in all new techniques, languages and services.
+While I am experimenting with all the latest technologies, I also go to college in Amsterdam, the Netherlands.
 
-Because I'm still going to school, I'm not yet specialized in a specific language. That's why I try a lot, and see what I can do with it. This way, I learn a lot along the way.
+Because I am still going to school, I'm not yet specialized in a specific language. That's why I am able to try a lot, and see what I can do with it. This way, I learn a lot along the way. I am always very interested in all new techniques, languages and services.
 
 ## Active Projects
 
