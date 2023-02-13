@@ -1,14 +1,16 @@
 # Hi there, I'm Stefan - aka PuffinKwadraat/Complex! 👋
 
-## I'm a full-stack developer, specialised in Javascript and web development
+I am a 17 year old self-taught Node.js programmer.
 
-- 🌱 I'm working on: my portfolio website!
-- ⚡ Fun fact: I love playing field hockey!
+While I'm experimenting with all the new technologies, I also go to school. I am very interested in all new techniques, languages and services.
+
+Because I'm still going to school, I'm not yet specialized in a specific language. That's why I try a lot, and see what I can do with it. This way, I learn a lot along the way.
 
 ## Active Projects
 
-- Portfolio website, repository [here](https://github.com/PuffinKwadraat/Portfolio-Website).
-- College, repository for [homework](https://github.com/PuffinKwadraat/HvA-NL-J1) and projects.
+- Discord Bots v2 - [link](https://github.com/PuffinKwadraat/Discord-Bots-v2), second generation Discord bots with the newest DJS version and capabilities.
+- Config UI - [link](https://github.com/PuffinKwadraat/bot-config-ui), an UI for configuring the bots. I could do this manually with an editor afcourse, but this way is more fun.
+- College - [link](https://github.com/PuffinKwadraat/HvA-NL-J1), a repository for all of my school assignments.
 
 ## Languages and Tools I use
 
