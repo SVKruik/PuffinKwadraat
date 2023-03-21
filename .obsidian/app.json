@@ -7,5 +7,7 @@
     "nl",
     "en-US",
     "en-GB"
-  ]
+  ],
+  "livePreview": false,
+  "alwaysUpdateLinks": true
 }
