@@ -18,7 +18,6 @@ I study Software Engineering at the AUAS, Amsterdam, the Netherlands.
 
 #### Tools I use currently
 
----
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />](https://github.com/PuffinKwadraat)
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />](https://github.com/PuffinKwadraat)
@@ -29,11 +28,11 @@ I study Software Engineering at the AUAS, Amsterdam, the Netherlands.
 [<img align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />](https://git-scm.com/)
 [<img align="left" alt="Figma" width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/>](https://www.figma.com/)
 
+
 ---
 
 #### Tools I have worked with
 
----
 
 [<img align="left" alt="TS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />](https://www.typescriptlang.org/)
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />](https://sass-lang.com/)
