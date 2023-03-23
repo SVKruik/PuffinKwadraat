@@ -29,6 +29,7 @@ I study Software Engineering at the AUAS, Amsterdam, the Netherlands.
 [<img align="left" alt="Figma" width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/>](https://www.figma.com/)
 
 <br>
+
 ---
 
 #### Tools I have worked with
