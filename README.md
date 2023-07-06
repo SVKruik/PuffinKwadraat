@@ -10,17 +10,17 @@ I study Software Engineering at the AUAS, Amsterdam, the Netherlands.
 
 ---
 
-- Discord Bots v2 - [link](https://github.com/PuffinKwadraat/Discord-Bots-v2), second generation Discord bots with the newest Discord API version and capabilities.
-- Config UI - [link](https://github.com/PuffinKwadraat/bot-config-ui), an UI for configuring the bots I have built.
-- College - [link](https://github.com/PuffinKwadraat/HvA-NL-J1), a repository for all of my school assignments.
+- Discord Bots v2 - [link](https://github.com/SVKruik/Discord-Bots-v2), second generation Discord bots with the newest Discord API version and capabilities.
+- Config UI - [link](https://github.com/SVKruik/bot-config-ui), an UI for configuring the bots I have built.
+- College - [link](https://github.com/SVKruik/HvA-NL-J1), a repository for all of my school assignments.
 
 ---
 
 #### Tools I use currently
 
 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />](https://github.com/PuffinKwadraat)
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />](https://github.com/PuffinKwadraat)
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />](https://github.com/SVKruik)
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />](https://github.com/SVKruik)
 [<img align="left" alt="JS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />](https://www.javascript.com/)
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />](https://www.java.com/en/)
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />](https://www.mysql.com/)
