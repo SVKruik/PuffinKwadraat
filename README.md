@@ -31,6 +31,7 @@ Besides academic work, I also work on side projects to enlarge my portfolio and 
 [<img align="left" alt="Terraform" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/terraform/terraform-original.svg" />](https://www.terraform.io/)
 [<img align="left" alt="Azure" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/azure/azure-original.svg"/>](https://azure.microsoft.com/en-us)
 
+<br/>
 
 #### Tools I have worked with
 
@@ -45,6 +46,7 @@ Besides academic work, I also work on side projects to enlarge my portfolio and 
 [<img align="left" alt="SpringBoot" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/spring/spring-original.svg" />](https://spring.io/)
 [<img align="left" alt="Lua" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/lua/lua-original.svg" />](https://www.lua.org/)
 
+<br/>
 
 #### Tools I am interested in learning
 
