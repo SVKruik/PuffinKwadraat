@@ -1,6 +1,6 @@
 # Hi there, I'm Stefan!
 
-I am a 18-year-old Dutch second-year Software Engineer major at the Amsterdam University of Applied sciences.
+I am a 18-year-old Dutch second-year Software Engineer major at the Amsterdam University of Applied Sciences.
 
 I love working with software and hardware, and learn new techniques, languages and tools daily.
 
@@ -32,8 +32,9 @@ Besides academic work, I also work on side projects to enlarge my portfolio and 
 [<img align="left" alt="Azure" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/azure/azure-original.svg"/>](https://azure.microsoft.com/en-us)
 
 <br/>
+<br/>
 
-#### Tools I have worked with
+#### Tools I have worked with before
 
 
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />](https://reactjs.org/)
@@ -47,8 +48,9 @@ Besides academic work, I also work on side projects to enlarge my portfolio and 
 [<img align="left" alt="Lua" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/lua/lua-original.svg" />](https://www.lua.org/)
 
 <br/>
+<br/>
 
-#### Tools I am interested in learning
+#### Tools I would like to learn
 
 
 [<img align="left" alt="Swift" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/swift/swift-original.svg"/>](https://www.swift.org/)
