@@ -1,42 +1,55 @@
-# Hi there, I'm Stefan - aka PuffinKwadraat/Complex! 👋
+# Hi there, I'm Stefan!
 
-I am a 17 year old beginner programmer that loves coding and tinkering with software and hardware. I am currently most familiar with Node.js.
+I am a 18-year-old Dutch second-year Software Engineer major at the Amsterdam University of Applied sciences.
 
-I study Software Engineering at the AUAS, Amsterdam, the Netherlands.
+I love working with software and hardware, and learn new techniques, languages and tools daily.
 
 ---
 
 #### Active Projects
 
----
+Besides academic work, I also work on side projects to enlarge my portfolio and learn new stuff freely.
 
 - Discord Bots v2 - [link](https://github.com/SVKruik/Discord-Bots-v2), second generation Discord bots with the newest Discord API version and capabilities.
-- Config UI - [link](https://github.com/SVKruik/bot-config-ui), an UI for configuring the bots I have built.
-- College - [link](https://github.com/SVKruik/HvA-NL-J1), a repository for all of my school assignments.
+- Bot Commander - [link](https://github.com/SVKruik/bot-config-ui), an administration panel for the second generation Discord bots.
+- College - [link](https://github.com/SVKruik/HvA-NL-J1), a repository for archiving my university assignments.
 
 ---
 
-#### Tools I use currently
+#### Tools I use & learn currently
 
 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />](https://github.com/SVKruik)
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />](https://github.com/SVKruik)
-[<img align="left" alt="JS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />](https://www.javascript.com/)
-[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />](https://www.java.com/en/)
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />](https://www.mysql.com/)
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />](https://nodejs.org/en/)
-[<img align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />](https://git-scm.com/)
-[<img align="left" alt="Figma" width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/>](https://www.figma.com/)
+[<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vuejs/vuejs-original.svg" />](https://vuejs.org/)
+[<img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/rust/rust-original.svg" />](https://www.rust-lang.org/)
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />](https://www.mysql.com/)
+[<img align="left" alt="Discord.JS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/discordjs/discordjs-original.svg" />](https://discord.js.org/)
+[<img align="left" alt="Tauri" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tauri/tauri-original.svg" />](https://tauri.app/)
+[<img align="left" alt="Figma" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/figma/figma-original.svg"/>](https://www.figma.com/)
+[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />](https://www.docker.com/)
+[<img align="left" alt="GitLab" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/gitlab/gitlab-original.svg" />](https://about.gitlab.com/)
+[<img align="left" alt="Terraform" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/terraform/terraform-original.svg" />](https://www.terraform.io/)
+[<img align="left" alt="Azure" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/azure/azure-original.svg"/>](https://azure.microsoft.com/en-us)
 
-<br>
-
----
 
 #### Tools I have worked with
 
 
-[<img align="left" alt="TS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />](https://www.typescriptlang.org/)
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />](https://sass-lang.com/)
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />](https://reactjs.org/)
-[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />](https://www.docker.com/)
+[<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />](https://www.typescriptlang.org/)
+[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />](https://sass-lang.com/)
+[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />](https://www.java.com/en/)
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />](https://www.mongodb.com/)
+[<img align="left" alt="Digital Ocean" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/digitalocean/digitalocean-original.svg" />](https://www.digitalocean.com/)
+[<img align="left" alt="Electron" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/electron/electron-original.svg" />](https://www.electronjs.org/)
+[<img align="left" alt="SpringBoot" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/spring/spring-original.svg" />](https://spring.io/)
+[<img align="left" alt="Lua" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/lua/lua-original.svg" />](https://www.lua.org/)
+
+
+#### Tools I am interested in learning
+
+
+[<img align="left" alt="Swift" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/swift/swift-original.svg"/>](https://www.swift.org/)
+[<img align="left" alt="RabbitMQ" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/rabbitmq/rabbitmq-original.svg"/>](https://www.rabbitmq.com/)
+[<img align="left" alt="Bun" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bun/bun-original.svg"/>](https://bun.sh/)
+[<img align="left" alt="Fastify" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/fastify/fastify-original.svg"/>](https://fastify.dev/)
