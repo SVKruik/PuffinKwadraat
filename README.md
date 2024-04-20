@@ -10,9 +10,10 @@ I love working with software and hardware, and learn new techniques, languages a
 
 Besides academic work, I also work on side projects to enlarge my portfolio and learn new stuff freely.
 
-- Discord Bots v2 - [link](https://github.com/SVKruik-Organization/Discord-Bots), second generation Discord bots with the newest Discord API version and capabilities.
-- Bot Commander - [link](https://github.com/SVKruik-Organization/Bot-Commander), an administration panel for the second generation Discord bots.
-- College - [link](https://github.com/SVKruik/HvA-NL-J1), a repository for archiving my university assignments.
+- [Discord Bots v2](https://github.com/SVKruik-Organization/Discord-Bots), second generation Discord bots with the newest Discord API version and capabilities.
+- [Bot Commander](https://github.com/SVKruik-Organization/Bot-Commander), an administration panel for the second generation Discord bots.
+- [Bot Website](https://github.com/SVKruik-Organization/Bot-Website), a website where you will be able to download the Commander app and learn about the Bots & API's.
+- [Rabbit](https://github.com/SVKruik-Organization/Rabbit), an ambitious social media app with features comparable to Reddit & Twitter. This is a collaboration with @donovan-nt.
 
 ---
 
