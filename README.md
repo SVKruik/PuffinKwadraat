@@ -4,6 +4,8 @@ I am a 18-year-old Dutch second-year Software Engineer major at the Amsterdam Un
 
 I love working with software and hardware, and learn new techniques, languages and tools daily.
 
+My larger and more advanced projects are available at my [organization](https://github.com/SVKruik-Organization). You can find them [here](https://github.com/SVKruik-Organization), under Active Projects or pinned on my GitHub profile.
+
 ---
 
 #### Active Projects
@@ -11,7 +13,8 @@ I love working with software and hardware, and learn new techniques, languages a
 Besides academic work, I also work on side projects to enlarge my portfolio and learn new stuff freely.
 
 - [Discord Bots v2](https://github.com/SVKruik-Organization/Discord-Bots), second generation Discord bots with the newest Discord API version and capabilities.
-- [Bot Commander](https://github.com/SVKruik-Organization/Bot-Commander), an administration panel for the second generation Discord bots.
+- [Bot Commander](https://github.com/SVKruik-Organization/Bot-Commander), a advanced configuration interface for the bots.
+- [Bot Administrator](https://github.com/SVKruik-Organization/Bot-Administrator), the administrator version of the Commander app reserved for staff.
 - [Bot Website](https://github.com/SVKruik-Organization/Bot-Website), a website where you will be able to download the Commander app and learn about the Bots & API's.
 - [Rabbit](https://github.com/SVKruik-Organization/Rabbit), an ambitious social media app with features comparable to Reddit & Twitter. This is a collaboration with @donovan-nt.
 
