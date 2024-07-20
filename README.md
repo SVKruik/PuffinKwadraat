@@ -4,37 +4,38 @@ I am a 18-year-old Dutch second-year Software Engineer major at the Amsterdam Un
 
 I love working with software and hardware, and learn new techniques, languages and tools daily.
 
-My larger and more advanced projects are available at my [organization](https://github.com/SVKruik-Organization). You can find them [here](https://github.com/SVKruik-Organization), under Active Projects below or pinned on my GitHub profile.
+My larger and more advanced projects are available at my organization. You can find them [here](https://github.com/SVKruik-Organization), under [Active Projects](https://github.com/SVKruik#active-projects) below or pinned on my GitHub profile.
 
 ---
 
-#### Active Projects
+### Active Projects
 
 Besides academic work over on GitLab, I also work on side projects to enlarge my portfolio and learn new stuff freely:
 
-- [Discord Bots v2](https://github.com/SVKruik-Organization/Discord-Bots), second generation Discord bots with the newest Discord API version and capabilities.
+- [Bot Website](https://github.com/SVKruik-Organization/Bot-Website): SK Platform website, a hub to manage your accounts, learn about the entire project and read the docs.
+- [Discord Bots](https://github.com/SVKruik-Organization/Discord-Bots): SK Bots, the modern and intuitive newest generation Discord bots.
+- [Uplink](https://github.com/SVKruik-Organization/Uplink): SK Uplink, the RabbitMQ communication network that makes SK Platform a hive mind.
 - [Bot Commander](https://github.com/SVKruik-Organization/Bot-Commander), a advanced configuration interface for the bots.
 - [Bot Administrator](https://github.com/SVKruik-Organization/Bot-Administrator), the administrator version of the Commander app reserved for staff.
-- [Bot Website](https://github.com/SVKruik-Organization/Bot-Website), a website where you will be able to download the Commander app and learn about the Bots & API's.
-- [Rabbit](https://github.com/SVKruik-Organization/Rabbit), an ambitious social media app with features comparable to Reddit & Twitter. This is a collaboration with [@donovan-nt](https://github.com/donovan-nt).
 
 ---
 
-#### Tools I use & learn currently
+### Tools I use & learn currently
 
 [<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />](https://www.typescriptlang.org/)
 [<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vuejs/vuejs-original.svg" />](https://vuejs.org/)
+[<img align="left" alt="RabbitMQ" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/rabbitmq/rabbitmq-original.svg"/>](https://www.rabbitmq.com/)
 [<img align="left" alt="Discord.JS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/discordjs/discordjs-original.svg" />](https://discord.js.org/)
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />](https://www.mysql.com/)
-[<img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/flask/flask-original.svg"/>](https://flask.palletsprojects.com/en/3.0.x/)
 [<img align="left" alt="Figma" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/figma/figma-original.svg"/>](https://www.figma.com/)
 [<img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/laravel/laravel-original.svg"/>](https://laravel.com/)
 
 <br/>
 <br/>
 
-#### Tools I have worked with before
+### Tools I have worked with before
 
+[<img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/flask/flask-original.svg"/>](https://flask.palletsprojects.com/en/3.0.x/)
 [<img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/rust/rust-original.svg" />](https://www.rust-lang.org/)
 [<img align="left" alt="Tauri" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tauri/tauri-original.svg" />](https://tauri.app/)
 [<img align="left" alt="GitLab" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/gitlab/gitlab-original.svg" />](https://about.gitlab.com/)
@@ -59,6 +60,5 @@ Besides academic work over on GitLab, I also work on side projects to enlarge my
 
 [<img align="left" alt="Swift" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/swift/swift-original.svg"/>](https://www.swift.org/)
 [<img align="left" alt="Fastify" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/fastify/fastify-original.svg"/>](https://fastify.dev/)
-[<img align="left" alt="RabbitMQ" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/rabbitmq/rabbitmq-original.svg"/>](https://www.rabbitmq.com/)
 [<img align="left" alt="Bun" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bun/bun-original.svg"/>](https://bun.sh/)
 [<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postgresql/postgresql-original.svg"/>](https://www.postgresql.org)
