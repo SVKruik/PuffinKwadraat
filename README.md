@@ -12,7 +12,7 @@ My larger and more advanced projects are available at my organization. You can f
 
 Besides academic work over on GitLab, I also work on side projects to enlarge my portfolio and learn new stuff freely:
 
-- [SK Platform](https://github.com/SVKruik-Organization/SK-Website): A hub to manage your accounts, learn about the entire project and read the docs.
+- [SK Platform](https://github.com/SVKruik-Organization/SK-Platform): A hub to manage your accounts, learn about the entire project and read the docs.
 - [SK Bots](https://github.com/SVKruik-Organization/SK-Bots): A line of modern and intuitive newest generation Discord bots.
 - [Uplink](https://github.com/SVKruik-Organization/Uplink): The RabbitMQ communication network that makes SK Platform a hive mind.
 - [SK Commander](https://github.com/SVKruik-Organization/SK-Commander): an advanced and sleek configuration interface to manage your SK products and Operator account.
